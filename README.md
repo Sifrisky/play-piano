@@ -1,11 +1,14 @@
 ## Project Piano. 
 
 Built with HTML, CSS and JS!
-(hobbyist work)
+
 
 See Deployment: [play-piano](https://sifrisky.github.io/play-piano/)
 
 
-## Preview
+## Preview🚀
 
 ![](docs/piano.jpeg)
+
+
+👩‍💻 with a lots of 💛 
